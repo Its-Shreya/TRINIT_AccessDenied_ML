@@ -9,6 +9,7 @@
  1. https://developers.arcgis.com/python/guide/how-image-captioning-works/
  2. https://github.com/openai/CLIP
  3. https://arxiv.org/abs/2103.00020
+ 4. Xiaoqiang Lu, Binqiang Wang, Xiangtao Zheng, Xuelong Li: “Exploring Models and Data for Remote Sensing Image Caption Generation”, 2017; arXiv:1712.07835. DOI: 10.1109/TGRS.2017.2776321.
 
 
 Output:
@@ -17,3 +18,11 @@ Train Data:
 
  
 ![Screenshot (354)](https://github.com/Its-Shreya/TRINIT_AccessDenied_ML/assets/139217213/6496d8b1-1513-4d57-8221-5c0b1ab3508f)
+
+![Screenshot (355) val](https://github.com/Its-Shreya/TRINIT_AccessDenied_ML/assets/139217213/ed80ad76-3d49-449d-b070-f0ac476889ac)
+
+![Screenshot (355)](https://github.com/Its-Shreya/TRINIT_AccessDenied_ML/assets/139217213/d077125e-5264-49f4-916f-9082986fcff7)
+
+Test Data Prediction output:
+
+![Screenshot (356)](https://github.com/Its-Shreya/TRINIT_AccessDenied_ML/assets/139217213/0f4a1870-c567-4cf1-804a-0a4cd7af97fa)
