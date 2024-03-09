@@ -26,3 +26,10 @@ Train Data:
 Test Data Prediction output:
 
 ![Screenshot (356)](https://github.com/Its-Shreya/TRINIT_AccessDenied_ML/assets/139217213/0f4a1870-c567-4cf1-804a-0a4cd7af97fa)
+
+
+Evaluation:
+Bilingual Evaluation Understudy Score(BLEU’s): is a popular metric that measures the number of sequential words that match between the predicted and the ground truth caption. It compares n-grams of various lengths from 1 through 4 to do this. A perfect match results in a score of 1.0, whereas a perfect mismatch results in a score of 0.0. summarizes how close the generated text is to the expected text.
+
+
+
