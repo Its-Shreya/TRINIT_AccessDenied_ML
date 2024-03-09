@@ -4,3 +4,16 @@
  
  Objective:
  Develop an image captioning model that can analyze and comprehend the content of remote sensing images, generating coherent and contextually relevant textual descriptions. The focus is on leveraging the RSICD dataset, with special attention to handling the unique characteristics of remote sensing images
+
+ References:
+ 1. https://developers.arcgis.com/python/guide/how-image-captioning-works/
+ 2. https://github.com/openai/CLIP
+ 3. https://arxiv.org/abs/2103.00020
+
+
+Output:
+
+Train Data:
+
+ 
+![Screenshot (354)](https://github.com/Its-Shreya/TRINIT_AccessDenied_ML/assets/139217213/6496d8b1-1513-4d57-8221-5c0b1ab3508f)
