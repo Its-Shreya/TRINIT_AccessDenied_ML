@@ -31,5 +31,10 @@ Test Data Prediction output:
 Evaluation:
 Bilingual Evaluation Understudy Score(BLEU’s): is a popular metric that measures the number of sequential words that match between the predicted and the ground truth caption. It compares n-grams of various lengths from 1 through 4 to do this. A perfect match results in a score of 1.0, whereas a perfect mismatch results in a score of 0.0. summarizes how close the generated text is to the expected text.
 
+BLEU-1: 0.585,
+BLEU-2: 0.338,
+BLEU-3: 0.246,
+BLEU-4: 0.189
+
 
 
